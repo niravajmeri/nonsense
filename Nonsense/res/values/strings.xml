@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Nonsense</string>
+    <string name="hello_world">Hello world! \nWant to surprise your friends with a blank message on Whatsapp?\nPress &quot;Nonsense&quot; or &quot;Big Nonsense&quot;. \nSelect contact who you want to surprise, and see the magic.</string>
+    <string name="send_nonsense">Nonsense</string>
+    <string name="send_bignonsense">Big Nonsense</string>
+    <string name="spread_nonsense">Spread the Word</string>
+
+</resources>
